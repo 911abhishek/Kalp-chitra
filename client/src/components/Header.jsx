@@ -50,9 +50,9 @@ const onClickHandler=()=>{
           transition={{ delay: 0.6, duration: 0.8 }}
           className="hidden sm:inline text-center max-w-[120px] mx-auto mt-10 text-2xl text-slate-800"
         >
-          Inspired by Sanskrit, ‘Kalp’ (कल्प) means imagination, and ‘Rachna’
-          (रचना) means creation. Kalp Rachna transforms your ideas into stunning
-          AI-generated visuals.
+          Inspired by Sanskrit, ‘Kalp’ (कल्प) means imagination, and ‘Chitra’
+          (चित्र) means picture or image. Kalp Chitra transforms your ideas into
+          stunning AI-generated visuals.
         </motion.p>
       </motion.div>
       <motion.button
@@ -66,7 +66,6 @@ const onClickHandler=()=>{
         }}
         onClick={onClickHandler}
         className="sm:text-xl text-white bg-violet-600 w-auto mt-10 md:mt-12 px-6 sm:px-10 py-2.5 flex items-center gap-2 rounded-full "
-        
       >
         Start For Free
         <TiArrowRight className="sm:ml-2" />

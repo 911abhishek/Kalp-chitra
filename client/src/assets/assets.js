@@ -18,9 +18,9 @@ import abhishek from "./abhishek.jpeg"
 import amit from "./amit.jpeg"
 import satyam from "./satyam.jpeg"
 import demoUse from "./demoUse.png"
-export const assets ={
-
- Logo,
+import result_image from "./result_image.png";
+export const assets = {
+  Logo,
   Your_text,
   eg1,
   rating_star,
@@ -38,8 +38,9 @@ export const assets ={
   abhishek,
   amit,
   satyam,
-  demoUse
-}
+  demoUse,
+  result_image,
+};
 
 export const testimonialsData = [
   {

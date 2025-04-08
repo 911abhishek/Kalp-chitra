@@ -5,10 +5,10 @@ import {motion} from 'motion/react'
 const steps = () => {
   return (
     <motion.div
-     initial={{ opacity: 0, y: 100 }}
-        transition={{ delay: 0.8, duration: 1 }}
-        whileInView={{ opacity: 1, y: 0 }}
-        viewport={{ once: true }}
+      initial={{ opacity: 0.2, y: 100 }}
+      transition={{ duration: 1 }} //delay: 0.8,
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
     >
       {/* flex items-center justify-center my-10 p-6 md:px-28 */}
       <div className="flex  items-center justify-center my-10 mt-15  sm:mb-10 ">

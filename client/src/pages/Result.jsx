@@ -7,7 +7,7 @@ import { imageData } from "../assets/assets";
 import "swiper/css";
 
 const Result = () => {
-  const [image, setImage] = useState(assets.demoUse);
+  const [image, setImage] = useState(assets.result_image);
   const [isImageLoaded, setIsImageLoaded] = useState(false);
   const [loading, setLoading] = useState(false);
   const [input, setInput] = useState("");
