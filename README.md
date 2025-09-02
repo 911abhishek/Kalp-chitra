@@ -1,6 +1,6 @@
-# 🌸✨ Imagify ✨🌸  
+# 🌸✨ KalpChitra ✨🌸  
 
-Transform your imagination into stunning visuals with **Imagify** 💡➡️🖼️  
+Transform your imagination into stunning visuals with **kalp chitra** 💡➡️🖼️  
 
 🚀 Live Demo: [Click Here!](https://kalpchitra.onrender.com/)  
 
